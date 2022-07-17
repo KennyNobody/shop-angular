@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+.aside {
+  flex-shrink: 0;
+  width: 280px;
+}
+.main {
+  flex-grow: 1;
+}

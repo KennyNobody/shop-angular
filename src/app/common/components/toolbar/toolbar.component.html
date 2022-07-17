@@ -1,0 +1,23 @@
+<div class="toolbar">
+<!--  <mat-form-field appearance="fill">-->
+<!--    <mat-label>Отображение</mat-label>-->
+<!--    <mat-select>-->
+<!--      &lt;!&ndash;      [value]="order.value"&ndash;&gt;-->
+<!--      <mat-option *ngFor="let view of viewList" [value]="view">-->
+<!--        &lt;!&ndash;        {{order.viewValue}}&ndash;&gt;-->
+<!--        {{view}}-->
+<!--      </mat-option>-->
+
+<!--    </mat-select>-->
+<!--  </mat-form-field>-->
+
+  <mat-form-field appearance="fill">
+    <mat-label>Сортировать</mat-label>
+    <mat-select (selectionChange)="sort($event.value)">
+      <mat-option *ngFor="let order of orderList" [value]="order.value">
+        {{order.title}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+
+</div>

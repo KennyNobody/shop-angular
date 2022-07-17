@@ -1,0 +1,922 @@
+{
+  "title": "Data Lego Store",
+  "series": [
+    {
+      "id": 101,
+      "title": "Adventures"
+    },
+    {
+      "id": 102,
+      "title": "Aquazone"
+    },
+    {
+      "id": 103,
+      "title": "Architecture"
+    },
+    {
+      "id": 104,
+      "title": "Castle"
+    },
+    {
+      "id": 105,
+      "title": "Creator"
+    },
+    {
+      "id": 106,
+      "title": "Harry Potter"
+    },
+    {
+      "id": 107,
+      "title": "Ghostbusters"
+    },
+    {
+      "id": 108,
+      "title": "Indiana Jones"
+    },
+    {
+      "id": 109,
+      "title": "Jurassic World"
+    },
+    {
+      "id": 110,
+      "title": "Ideas"
+    },
+    {
+      "id": 111,
+      "title": "Legoland"
+    },
+    {
+      "id": 112,
+      "title": "Pirates"
+    },
+    {
+      "id": 113,
+      "title": "Sculptures"
+    },
+    {
+      "id": 114,
+      "title": "Star Wars"
+    },
+    {
+      "id": 115,
+      "title": "Stranger Things"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1001,
+      "title": "ретро"
+    },
+    {
+      "id": 1002,
+      "title": "техника"
+    },
+    {
+      "id": 1003,
+      "title": "взрослым"
+    },
+    {
+      "id": 1004,
+      "title": "исторические"
+    },
+    {
+      "id": 1005,
+      "title": "маленькие"
+    },
+    {
+      "id": 1006,
+      "title": "город"
+    },
+    {
+      "id": 1007,
+      "title": "большие"
+    },
+    {
+      "id": 1008,
+      "title": "праздники"
+    },
+    {
+      "id": 1009,
+      "title": "франшиза"
+    },
+    {
+      "id": 1010,
+      "title": "трибьют"
+    },
+    {
+      "id": 1011,
+      "title": "космос"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "Amazon Ancient Ruins",
+      "price": 19990,
+      "code": 5986,
+      "preview": "https://data.egor-badulin.ru/5986.png",
+      "recommendedAge": 12,
+      "year": 1999,
+      "parts": 420,
+      "quantity": 1,
+      "minifigures": 8,
+      "description": "Длинное описание ретро-набора",
+      "tags": [
+        {
+          "id": 1001,
+          "title": "ретро"
+        }
+      ],
+      "series": [
+        {
+          "id": 101,
+          "title": "adventures"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bi-Wing Baron",
+      "price": 12999,
+      "code": 5928,
+      "preview": "https://data.egor-badulin.ru/5928.png",
+      "recommendedAge": 9,
+      "year": 1998,
+      "parts": 64,
+      "quantity": 3,
+      "minifigures": 8,
+      "description": "Длинное описание ретр-набора",
+      "tags": [
+        {
+          "id": 1001,
+          "title": "ретро"
+        },
+        {
+          "id": 1002,
+          "title": "техника"
+        }
+      ],
+      "series": [
+        {
+          "id": 101,
+          "title": "adventures"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sea Claw 7 / Neptune III",
+      "price": 4599,
+      "code": 1822,
+      "preview": "https://data.egor-badulin.ru/1822.png",
+      "recommendedAge": 9,
+      "year": 1995,
+      "parts": 176,
+      "quantity": 2,
+      "minifigures": 2,
+      "description": "Длинное описание ретр-набора",
+      "tags": [
+        {
+          "id": 1001,
+          "title": "ретро"
+        },
+        {
+          "id": 1002,
+          "title": "техника"
+        }
+      ],
+      "series": [
+        {
+          "id": 102,
+          "title": "aquazone"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Las Vegas (Early Version with Mandalay Bay Hotel)",
+      "price": 12599,
+      "code": 21038,
+      "preview": "https://data.egor-badulin.ru/21038.png",
+      "recommendedAge": 18,
+      "year": 2018,
+      "parts": 487,
+      "quantity": 2,
+      "minifigures": 2,
+      "description": "Длинное описание набора, посвященного Лас-Вегасу",
+      "tags": [
+        {
+          "id": 1003,
+          "title": "взрослым"
+        }
+      ],
+      "series": [
+        {
+          "id": 103,
+          "title": "architecture"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Wizard Trader",
+      "price": 999,
+      "code": 2891,
+      "preview": "https://data.egor-badulin.ru/2891.png",
+      "recommendedAge": 9,
+      "year": 1998,
+      "parts": 13,
+      "quantity": 5,
+      "minifigures": 1,
+      "description": "Длинное описание набора с торговцем-волшебником",
+      "tags": [
+        {
+          "id": 1004,
+          "title": "исторические"
+        },
+        {
+          "id": 1005,
+          "title": "исторические"
+        }
+      ],
+      "series": [
+        {
+          "id": 104,
+          "title": "сastle"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Bike Shop & Café",
+      "price": 7999,
+      "code": 31026,
+      "preview": "https://data.egor-badulin.ru/31026.png",
+      "recommendedAge": 13,
+      "year": 2014,
+      "parts": 1011,
+      "quantity": 1,
+      "minifigures": 4,
+      "description": "Часть улицы с кафе и магазином велосипедов",
+      "tags": [
+        {
+          "id": 1006,
+          "title": "город"
+        }
+      ],
+      "series": [
+        {
+          "id": 105,
+          "title": "creator"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Old Trafford - Manchester United",
+      "price": 39900,
+      "code": 10272,
+      "preview": "https://data.egor-badulin.ru/10272.png",
+      "recommendedAge": 18,
+      "year": 2020,
+      "parts": 3898,
+      "quantity": 3,
+      "minifigures": 0,
+      "description": "Очень большой стадион в Манчестере",
+      "tags": [
+        {
+          "id": 1003,
+          "title": "взрослым"
+        },
+        {
+          "id": 1007,
+          "title": "большие"
+        }
+      ],
+      "series": [
+        {
+          "id": 105,
+          "title": "creator"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Volkswagen T2 Camper Van (VW Bus)",
+      "price": 12900,
+      "code": 10279,
+      "preview": "https://data.egor-badulin.ru/10279.png",
+      "recommendedAge": 13,
+      "year": 2021,
+      "parts": 2207,
+      "quantity": 3,
+      "minifigures": 0,
+      "description": "Модель автомобиля Volkswagen T2",
+      "tags": [
+        {
+          "id": 1002,
+          "title": "техника"
+        },
+        {
+          "id": 1003,
+          "title": "взрослым"
+        }
+      ],
+      "series": [
+        {
+          "id": 105,
+          "title": "creator"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Vespa 125",
+      "price": 5990,
+      "code": 10298,
+      "preview": "https://data.egor-badulin.ru/10298.png",
+      "recommendedAge": 18,
+      "year": 2022,
+      "parts": 1106,
+      "quantity": 2,
+      "minifigures": 0,
+      "description": "Модель скутера Vespa 125",
+      "tags": [
+        {
+          "id": 1002,
+          "title": "техника"
+        },
+        {
+          "id": 1003,
+          "title": "взрослым"
+        }
+      ],
+      "series": [
+        {
+          "id": 105,
+          "title": "creator"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Winter Village Bakery",
+      "price": 12900,
+      "code": 10216,
+      "preview": "https://data.egor-badulin.ru/10216.png",
+      "recommendedAge": 9,
+      "year": 2010,
+      "parts": 659,
+      "quantity": 1,
+      "minifigures": 9,
+      "description": "Рождественская улица",
+      "tags": [
+        {
+          "id": 1006,
+          "title": "город"
+        },
+        {
+          "id": 1008,
+          "title": "праздники"
+        }
+      ],
+      "series": [
+        {
+          "id": 105,
+          "title": "creator"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Hogwarts Express (3rd edition)",
+      "price": 14990,
+      "code": 4841,
+      "preview": "https://data.egor-badulin.ru/4841.png",
+      "recommendedAge": 13,
+      "year": 2010,
+      "parts": 629,
+      "quantity": 1,
+      "minifigures": 5,
+      "description": "Новое переиздание Хогвартского экспресса",
+      "tags": [
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": 106,
+          "title": "Harry Potter"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Ghostbusters ECTO-1",
+      "price": 21900,
+      "code": 10274,
+      "preview": "https://data.egor-badulin.ru/10274.png",
+      "recommendedAge": 13,
+      "year": 2020,
+      "parts": 2352,
+      "quantity": 18,
+      "minifigures": 0,
+      "description": "Автомобиль героев фильма 'Охотники за приведениями'",
+      "tags": [
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": 107,
+          "title": "Ghostbusters"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Temple of the Crystal Skull",
+      "price": 13490,
+      "code": 7627,
+      "preview": "https://data.egor-badulin.ru/7627.png",
+      "recommendedAge": 13,
+      "year": 2008,
+      "parts": 880,
+      "quantity": 1,
+      "minifigures": 8,
+      "description": "Храм из фильма про Индиана Джонса",
+      "tags": [
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": 108,
+          "title": "Indiana Jones"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Jurassic Park: T. rex Rampage",
+      "price": 12490,
+      "code": 75936,
+      "preview": "https://data.egor-badulin.ru/75936.png",
+      "recommendedAge": 19,
+      "year": 2019,
+      "parts": 3096,
+      "quantity": 3,
+      "minifigures": 6,
+      "description": "По мотивам фильма Стивена Спилберга",
+      "tags": [
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": 109,
+          "title": "Jurassic World"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Blue & Beta Velociraptor Capture",
+      "price": 4990,
+      "code": 76946,
+      "preview": "https://data.egor-badulin.ru/76946.png",
+      "recommendedAge": 9,
+      "year": 2022,
+      "parts": 166,
+      "quantity": 5,
+      "minifigures": 2,
+      "description": "По мотивам фильма Стивена Спилберга",
+      "tags": [
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": 109,
+          "title": "Jurassic World"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "T. rex Breakout",
+      "price": 14990,
+      "code": 76956,
+      "preview": "https://data.egor-badulin.ru/76956.png",
+      "recommendedAge": 13,
+      "year": 2022,
+      "parts": 11296,
+      "quantity": 2,
+      "minifigures": 4,
+      "description": "По мотивам фильма Стивена Спилберга",
+      "tags": [
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": 109,
+          "title": "Jurassic World"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Yellow Submarine",
+      "price": 12990,
+      "code": 21306,
+      "preview": "https://data.egor-badulin.ru/21306.png",
+      "recommendedAge": 13,
+      "year": 2016,
+      "parts": 535,
+      "quantity": 1,
+      "minifigures": 5,
+      "description": "Трибьют культовой музыкальной группе",
+      "tags": [
+        {
+          "id": 1010,
+          "title": "трибьют"
+        }
+      ],
+      "series": [
+        {
+          "id": "Ideas",
+          "title": 110
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Old Fishing Store",
+      "price": 9900,
+      "code": 21310,
+      "preview": "https://data.egor-badulin.ru/21310.png",
+      "recommendedAge": 13,
+      "year": 2017,
+      "parts": 2033,
+      "quantity": 2,
+      "minifigures": 4,
+      "description": "Рыбный магазин, который станет важной частью вашего lego-города",
+      "tags": [
+        {
+          "id": 1006,
+          "title": "город"
+        }
+      ],
+      "series": [
+        {
+          "id": "Ideas",
+          "title": 110
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "F·R·I·E·N·D·S Central Perk",
+      "price": 7490,
+      "code": 21319,
+      "preview": "https://data.egor-badulin.ru/21319.png",
+      "recommendedAge": 18,
+      "year": 2019,
+      "parts": 1042,
+      "quantity": 4,
+      "minifigures": 7,
+      "description": "По мотивам сериала 'Друзья'",
+      "tags": [
+        {
+          "id": 1003,
+          "title": "взрослым"
+        },
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": "Ideas",
+          "title": 110
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "International Space Station",
+      "price": 6990,
+      "code": 21321,
+      "preview": "https://data.egor-badulin.ru/21321.png",
+      "recommendedAge": 13,
+      "year": 2020,
+      "parts": 864,
+      "quantity": 6,
+      "minifigures": 0,
+      "description": "Международная космическая станция. Можно повесить под потолком",
+      "tags": [
+        {
+          "id": 1003,
+          "title": "взрослым"
+        },
+        {
+          "id": 1011,
+          "title": "космос"
+        }
+      ],
+      "series": [
+        {
+          "id": "Ideas",
+          "title": 110
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "The Starry Night (Vincent van Gogh)",
+      "price": 2022,
+      "code": 21333,
+      "preview": "https://data.egor-badulin.ru/21333.png",
+      "recommendedAge": 13,
+      "year": 2022,
+      "parts": 2312,
+      "quantity": 3,
+      "minifigures": 1,
+      "description": "'Звездная ночь' Ван Гога теперь на вашей полке",
+      "tags": [
+        {
+          "id": 1003,
+          "title": "взрослым"
+        },
+        {
+          "id": 1010,
+          "title": "трибьют"
+        }
+      ],
+      "series": [
+        {
+          "id": 110,
+          "title": "Ideas"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "WALL•E",
+      "price": 9900,
+      "code": 21303,
+      "preview": "https://data.egor-badulin.ru/21303.png",
+      "recommendedAge": 13,
+      "year": 2015,
+      "parts": 677,
+      "quantity": 0,
+      "minifigures": 0,
+      "description": "Обаятельный робот из мультфильма Pixar",
+      "tags": [
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": "Ideas",
+          "title": 110
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Lufthansa Double-Decker",
+      "price": 29900,
+      "code": 1562,
+      "preview": "https://data.egor-badulin.ru/1562.png",
+      "recommendedAge": 6,
+      "year": 1976,
+      "parts": 47,
+      "quantity": 1,
+      "minifigures": 0,
+      "description": "Очень редкий набор",
+      "tags": [
+        {
+          "id": 1002,
+          "title": "техника"
+        },
+        {
+          "id": 1006,
+          "title": "город"
+        }
+      ],
+      "series": [
+        {
+          "id": 101,
+          "title": "Legoland"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Hot Rod",
+      "price": 9990,
+      "code": 10151,
+      "preview": "https://data.egor-badulin.ru/10151.png",
+      "recommendedAge": 9,
+      "year": 2004,
+      "parts": 421,
+      "quantity": 1,
+      "minifigures": 0,
+      "description": "Hot Rod, как в самые лучшие годы кастомайзинга",
+      "tags": [
+        {
+          "id": 1002,
+          "title": "техника"
+        }
+      ],
+      "series": [
+        {
+          "id": 101,
+          "title": "Legoland"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Brickbeard's Bounty",
+      "price": 14990,
+      "code": 6243,
+      "preview": "https://data.egor-badulin.ru/6243.png",
+      "recommendedAge": 9,
+      "year": 2009,
+      "parts": 555,
+      "quantity": 1,
+      "minifigures": 8,
+      "description": "Пиратский корабль, с которым вы можете двигаться навстречу приключениям",
+      "tags": [],
+      "series": [
+        {
+          "id": 112,
+          "title": "Pirates"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Sopwith Camel",
+      "price": 12990,
+      "code": 3451,
+      "preview": "https://data.egor-badulin.ru/3451.png",
+      "recommendedAge": 9,
+      "year": 2001,
+      "parts": 577,
+      "quantity": 1,
+      "minifigures": 0,
+      "description": "Биплан времен Первой Мировой",
+      "tags": [
+        {
+          "id": 1001,
+          "title": "ретро"
+        },
+        {
+          "id": 1002,
+          "title": "техника"
+        }
+      ],
+      "series": [
+        {
+          "id": 110,
+          "title": "Ideas"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Titanic",
+      "price": 56900,
+      "code": 10294,
+      "preview": "https://data.egor-badulin.ru/10294.png",
+      "recommendedAge": 18,
+      "year": 2021,
+      "parts": 9990,
+      "quantity": 2,
+      "minifigures": 0,
+      "description": "Один из самый больших наборов, когда-либо выпущенных Lego",
+      "tags": [
+        {
+          "id": 1002,
+          "title": "техника"
+        },
+        {
+          "id": 1003,
+          "title": "взрослым"
+        },
+        {
+          "id": 1004,
+          "title": "исторические"
+        }
+      ],
+      "series": [
+        {
+          "id": 110,
+          "title": "Ideas"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Maersk Line Triple-E",
+      "price": 9900,
+      "code": 1518,
+      "preview": "https://data.egor-badulin.ru/10241.png",
+      "recommendedAge": 13,
+      "year": 2014,
+      "parts": 1518,
+      "quantity": 1,
+      "minifigures": 0,
+      "description": "Коллекционная модель трансортного судна фирмы Maersk",
+      "tags": [
+        {
+          "id": 1002,
+          "title": "техника"
+        },
+        {
+          "id": 1003,
+          "title": "взрослым"
+        }
+      ],
+      "series": [
+        {
+          "id": 110,
+          "title": "Ideas"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Death Star - UCS",
+      "price": 49900,
+      "code": 75159,
+      "preview": "https://data.egor-badulin.ru/75159.png",
+      "recommendedAge": 18,
+      "year": 2016,
+      "parts": 3896,
+      "quantity": 1,
+      "minifigures": 27,
+      "description": "Звезда Смерти. Почувствуй себя темной стороной!",
+      "tags": [
+        {
+          "id": 1003,
+          "title": "взрослым"
+        },
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": 114,
+          "title": "Star Wars"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "The Upside Down",
+      "price": 18990,
+      "code": 75810,
+      "preview": "https://data.egor-badulin.ru/75810.png",
+      "recommendedAge": 13,
+      "year": 2019,
+      "parts": 2254,
+      "quantity": 2,
+      "minifigures": 8,
+      "description": "'Очень странные дела' теперь у тебя на столе!",
+      "tags": [
+        {
+          "id": 1009,
+          "title": "франшиза"
+        }
+      ],
+      "series": [
+        {
+          "id": 115,
+          "title": "Stranger Things"
+        }
+      ]
+    }
+  ]
+}

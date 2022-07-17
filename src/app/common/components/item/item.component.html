@@ -1,0 +1,19 @@
+<mat-card class="item-card">
+  <mat-card-header>
+    <mat-card-title>{{ title }}</mat-card-title>
+    <mat-card-subtitle>{{year}} год</mat-card-subtitle>
+  </mat-card-header>
+  <img mat-card-image [src]="preview">
+  <mat-card-content>
+    <p>
+      {{ description }}
+    </p>
+    <p>
+      <b>{{price}}</b> рублей
+    </p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button (click)="addToCart()" mat-flat-button color="primary">В корзину</button>
+    <button mat-stroked-button color="primary">Подробнее</button>
+  </mat-card-actions>
+</mat-card>

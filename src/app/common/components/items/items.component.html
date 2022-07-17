@@ -1,0 +1,14 @@
+<div class="items">
+  <div *ngFor="let item of catalogService.products$ | async">
+    <div class="items__col items__col--1">
+      <app-item
+        [id]="item.id"
+        [title]="item.title"
+        [preview]="item.preview"
+        [price]="item.price"
+        [year]="item.year"
+        [description]="item.description"
+      ></app-item>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,13 @@
+<mat-toolbar color="primary" class="header">
+  <span class="logo">{{ title }}</span>
+  <a routerLink="/catalog/" mat-raised-button>Каталог</a>
+<!--  <a class="nav-link" routerLink="/catalog/">Каталог</a>-->
+<!--  <a class="nav-link" routerLink="/cart">Корзина</a>-->
+  <span class="spacer"></span>
+  <a routerLink="/cart/" mat-mini-fab color="accent"  mat-raised-button color="primary"
+     [matBadge]="cart.items$.value.length || null" matBadgePosition="before" matBadgeColor="accent">
+    <mat-icon>shopping_cart_checkout</mat-icon>
+  </a>
+  <!--    <mat-icon class="example-icon" aria-hidden="false" aria-label="Example cart icon">favorite</mat-icon>-->
+  <!--    <mat-icon class="example-icon" aria-hidden="false" aria-label="Example delete icon">delete</mat-icon>-->
+</mat-toolbar>
